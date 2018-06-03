@@ -1,1 +1,5 @@
+Density cube is a mathematical model that view quantum mechanics as a subset of a general probailistic theory. 
+densitycube.py provides a set of functions for the density cube model to make the computational task easier.
 
+Last update:
+3/6/2018 - upload the library
